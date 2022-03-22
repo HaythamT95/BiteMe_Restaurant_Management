@@ -28,5 +28,7 @@ Brach managers sends the reports to the CEO in pdf format, the CEO can perform c
 
 Orders made by the users are received by restaurants, restaurant accepts that he received his client order and it is getting processed.
 When the order is ready the restaurant notifies the client that his order is ready and that he can self-pick or that his delivery is on it's way.
+
 User accepts his order when receives it.
-Order which were delayed user receives 50% refund for their order and it is added to their QR card balance and can perform future payment with it.
+
+Orders which were delayed user receives 50% refund for their order and it is added to their QR card balance and can perform future payment with it.
