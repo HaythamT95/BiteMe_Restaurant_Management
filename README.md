@@ -4,6 +4,7 @@ A 5th semester assignment assigned to group of students, each group was between 
 
 The project was built using Java,JavaFX, SceneBuilder,MySQL.
 Test on the project using UnitTesting and Functional Testing with Jubula.
+
 Project includes Server-side and Client-Side.
 
 The requirements were to build a restaurant system management which included many types of users such as:
