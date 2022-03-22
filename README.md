@@ -1,7 +1,7 @@
 # BiteMe_Restaurant_Management
 
 A 5th semester assignment assigned to group of students, each group was between 5-6 students, our group included 5 student.
-The project were build using Java,JavaFX, SceneBuilder,MySQL.
+The project was built using Java,JavaFX, SceneBuilder,MySQL.
 Test on the project included by UnitTesting and Functional Testing using Jubula.
 
 The requirements were to build a restaurant system management which included many types of users such as:
